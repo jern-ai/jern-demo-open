@@ -1,0 +1,5 @@
+[
+  "tests/test_fahrenheit.py::test_celsius_to_fahrenheit[-40--40]",
+  "tests/test_fahrenheit.py::test_celsius_to_fahrenheit[0-32]",
+  "tests/test_fahrenheit.py::test_celsius_to_fahrenheit[100-212]"
+]
